@@ -2,35 +2,35 @@
   {
     "title": "RContacs Apps",
     "projectType": "GITHUB",
-    "projectUrl": "https://github.com",
+    "projectUrl": "https://github.com/dist-r/rcontacts-rest",
     "projectRole": "Fullstack",
     "technologies": ["react", "vue", "go", "ts"]
   },
   {
     "title": "Oauth",
     "projectType": "Github",
-    "projectUrl": "https://github.com",
+    "projectUrl": "https://github.com/risoluzumaki/oauth",
     "projectRole": "Backend",
     "technologies": ["Go", "typescript"]
   },
   {
     "title": "Docker Containerization",
     "projectType": "NOTION",
-    "projectUrl": "https://github.com",
+    "projectUrl": "https://www.notion.so/Docker-244f56c5e71580fea418fbd4db80ccb6?source=copy_link",
     "projectRole": "Devops",
     "technologies": ["docker"]
   },
   {
-    "title": "Auth Tech Lang",
+    "title": "Auth Multi Tech Stack",
     "projectType": "GITHUB",
-    "projectUrl": "https://github.com",
+    "projectUrl": "https://github.com/risoluzumaki/auth-tech-stack",
     "projectRole": "Fullstack",
     "technologies": ["Go", "typescript"]
   },
   {
-    "title": "JWT",
+    "title": "JWT Rest",
     "projectType": "GITHUB",
-    "projectUrl": "https://github.com",
+    "projectUrl": "https://github.com/risoluzumaki/jwt-rest",
     "projectRole": "Backend",
     "technologies": ["go", "typescript", "java"]
   },
@@ -44,21 +44,21 @@
   {
     "title": "CI/CD Jenkins",
     "projectType": "NOTION",
-    "projectUrl": "https://notion.com",
+    "projectUrl": "https://www.notion.so/Jenkins-24cf56c5e715803d8a19d9a21d0d16ba?source=copy_link",
     "projectRole": "Devops",
     "technologies": ["jenkins"]
   },
   {
     "title": "CI/CD Github Action",
     "projectType": "NOTION",
-    "projectUrl": "https://notion.com",
+    "projectUrl": "https://www.notion.so/Github-Action-24df56c5e71580c9929ed60221994adf?source=copy_link",
     "projectRole": "Devops",
     "technologies": ["github"]
   },
   {
     "title": "CI/CD Gitlab",
     "projectType": "NOTION",
-    "projectUrl": "https://notion.com",
+    "projectUrl": "https://www.notion.so/Gitlab-CI-CD-250f56c5e715802f84dbc536dbe9fe62?source=copy_link",
     "projectRole": "Devops",
     "technologies": ["gitlab"]
   },
@@ -72,15 +72,36 @@
   {
     "title": "IAC Terraform",
     "projectType": "NOTION",
-    "projectUrl": "https://notion.com",
+    "projectUrl": "https://www.notion.so/Terraform-24cf56c5e715801c823af02b914b5594?source=copy_link",
     "projectRole": "Devops",
     "technologies": ["terraform"]
   },
   {
     "title": "IAC Ansible",
     "projectType": "NOTION",
-    "projectUrl": "https://notion.com",
+    "projectUrl": "https://www.notion.so/Ansible-24cf56c5e715804fa826c67174de12cb?source=copy_link",
     "projectRole": "Devops",
     "technologies": ["Ansible"]
+  },
+  {
+    "title": "Monitoring Prometheus",
+    "projectType": "NOTION",
+    "projectUrl": "https://www.notion.so/Prometheus-250f56c5e715802e979cfa136e502f32?source=copy_link",
+    "projectRole": "Devops",
+    "technologies": ["Prometheus"]
+  },
+  {
+    "title": "Monitoring Grafana",
+    "projectType": "NOTION",
+    "projectUrl": "https://www.notion.so/Grafana-250f56c5e7158001b5d8ddf82cfa3ffb?source=copy_link",
+    "projectRole": "Devops",
+    "technologies": ["Grafana"]
+  },
+  {
+    "title": "Kubernetes Orchestration",
+    "projectType": "NOTION",
+    "projectUrl": "https://www.notion.so/Kubernetes-K8s-250f56c5e71580339316f6054c3f4376?source=copy_link",
+    "projectRole": "Devops",
+    "technologies": ["Kubernetes"]
   }
 ]
