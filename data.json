@@ -1,13 +1,20 @@
 [
   {
-    "title": "RContacs Apps",
+    "title": "RContacs Rest API",
     "projectType": "GITHUB",
     "projectUrl": "https://github.com/dist-r/rcontacts-rest",
-    "projectRole": "Fullstack",
-    "technologies": ["react", "vue", "go", "ts"]
+    "projectRole": "Backend",
+    "technologies": ["go", "ts"]
   },
   {
-    "title": "Oauth",
+    "title": "RContacs Client",
+    "projectType": "GITHUB",
+    "projectUrl": "https://github.com/dist-r/rcontacts-rest",
+    "projectRole": "Frontend",
+    "technologies": ["react", "vue"]
+  },
+  {
+    "title": "Oauth (feature based)",
     "projectType": "Github",
     "projectUrl": "https://github.com/risoluzumaki/oauth",
     "projectRole": "Backend",
@@ -21,17 +28,24 @@
     "technologies": ["docker"]
   },
   {
-    "title": "Auth Multi Tech Stack",
+    "title": "Multi Stack Auth Metode",
     "projectType": "GITHUB",
     "projectUrl": "https://github.com/risoluzumaki/auth-tech-stack",
     "projectRole": "Fullstack",
     "technologies": ["Go", "typescript"]
   },
   {
-    "title": "JWT Rest",
+    "title": "JWT Rest (feature based)",
     "projectType": "GITHUB",
     "projectUrl": "https://github.com/risoluzumaki/jwt-rest",
     "projectRole": "Backend",
+    "technologies": ["go", "typescript", "java"]
+  },
+  {
+    "title": "Session (feature based)",
+    "projectType": "GITHUB",
+    "projectUrl": "https://github.com/risoluzumaki/session",
+    "projectRole": "Fullstack",
     "technologies": ["go", "typescript", "java"]
   },
   {
