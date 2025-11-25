@@ -9,7 +9,7 @@
   {
     "title": "RContacs Client",
     "projectType": "GITHUB",
-    "projectUrl": "https://github.com/dist-r/rcontacts-rest",
+    "projectUrl": "https://github.com/dist-r/rcontacts-client",
     "projectRole": "Frontend",
     "technologies": ["react", "vue"]
   },
